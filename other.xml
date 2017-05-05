@@ -1,0 +1,16 @@
+<application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="a.a.a.a.a.G">
+    <pattern>*</pattern>
+    <pattern>info</pattern>
+  </component>
+  <component name="a.a.a.a.a.T">
+    <servers>
+      <general label="127.0.0.1" host="127.0.0.1" port="6379" password="" timestamp="1493960640293" />
+    </servers>
+  </component>
+</application>
