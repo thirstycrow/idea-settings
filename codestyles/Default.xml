@@ -1,5 +1,10 @@
 <code_scheme name="Default">
   <ScalaCodeStyleSettings>
+    <option name="importLayout">
+      <array>
+        <option value="all other imports" />
+      </array>
+    </option>
     <option name="SPACE_AFTER_MODIFIERS_CONSTRUCTOR" value="true" />
   </ScalaCodeStyleSettings>
 </code_scheme>
