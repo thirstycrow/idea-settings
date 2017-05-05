@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <ScalaCodeStyleSettings>
+    <option name="SPACE_AFTER_MODIFIERS_CONSTRUCTOR" value="true" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
