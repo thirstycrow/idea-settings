@@ -6,5 +6,6 @@
       </array>
     </option>
     <option name="SPACE_AFTER_MODIFIERS_CONSTRUCTOR" value="true" />
+    <option name="USE_SCALADOC2_FORMATTING" value="false" />
   </ScalaCodeStyleSettings>
 </code_scheme>
