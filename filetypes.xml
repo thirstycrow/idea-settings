@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping pattern="JedisPoolShardInfoBuilderSpringTest" type="XML" />
       <mapping pattern="federation-bjdx11" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
