@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="EmbeddedCassandraServerHelper" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping pattern="JedisPoolShardInfoBuilderSpringTest" type="XML" />
