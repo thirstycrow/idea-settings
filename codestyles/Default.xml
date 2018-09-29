@@ -19,6 +19,7 @@
         <option value="all other imports" />
       </array>
     </option>
+    <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
     <option name="SPACE_AFTER_MODIFIERS_CONSTRUCTOR" value="true" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
   </ScalaCodeStyleSettings>
@@ -26,8 +27,5 @@
     <indentOptions>
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Scala">
-    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
   </codeStyleSettings>
 </code_scheme>
