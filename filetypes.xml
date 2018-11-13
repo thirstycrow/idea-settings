@@ -4,7 +4,6 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="df" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping pattern="JedisPoolShardInfoBuilderSpringTest" type="XML" />
       <mapping pattern="federation-bjdx11" type="YAML" />
